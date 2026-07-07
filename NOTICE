@@ -1,0 +1,13 @@
+TaxoSeg
+
+This repository is released under the Apache License, Version 2.0.
+
+Portions of the implementation are adapted from Apache-licensed semantic
+segmentation and detection projects. Original copyright and license notices are
+retained in source-file headers where they were present upstream.
+
+Retained upstream notices include copyright notices for Bytedance Ltd. and/or
+its affiliates, Facebook, Inc. and its affiliates, SenseTime, and Microsoft.
+Source comments also identify files or logic adapted from Mask2Former,
+Detectron2, Deformable DETR/MSDeformAttn, and related open-source components
+where applicable.
