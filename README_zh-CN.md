@@ -65,7 +65,7 @@ cd ../../../..
 
 ## :rocket: 训练与评估
 
-请单独下载 `WheatField-Seg`，并设置数据集根目录：
+我们将在论文正式发表后公开下载链接，请单独下载 `WheatField-Seg`，并设置数据集根目录。
 
 ```bash
 export TAXOSEG_DATASETS=/path/to/datasets

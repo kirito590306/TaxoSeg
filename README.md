@@ -65,7 +65,7 @@ cd ../../../..
 
 ## :rocket: Training and Evaluation
 
-Download `WheatField-Seg` separately and set the dataset root:
+We will release the download link after the paper is formally published. Download `WheatField-Seg` separately and set the dataset root.
 
 ```bash
 export TAXOSEG_DATASETS=/path/to/datasets
